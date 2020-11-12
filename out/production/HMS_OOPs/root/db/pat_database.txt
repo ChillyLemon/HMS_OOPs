@@ -1,3 +1,4 @@
 ID      Time_of_registration        Name        Gender      DOB     CT_Num      BloodGroup      Department      Emergency
 11000	2020-11-05T22:45:02.998100100	abcd efghi	Male	02/11/2000	9876543232	B+	Dermatology	NO
 11001	2020-11-06T14:41:23.372635	akfdfeafw	Female	01/01/2020	3435435353	AB+	Emergency	YES
+11002	2020-11-12T12:28:43.090880100	vineet	Male	01/01/2000	1234567890	B+	OPD	YES

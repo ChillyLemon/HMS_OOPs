@@ -1,2 +1,3 @@
 ID      Name        Gender      DOB     CT_Num      BloodGroup      Department
 EM1000	arnab goswami	Male	01/02/2003	9988776655	B-	Emergency
+NE1001	abdhfgfs	Female	01/01/1980	9999999999	AB+	Neurology
