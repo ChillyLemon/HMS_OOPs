@@ -66,7 +66,7 @@ public class AdminGui extends JFrame {
     }
 
    private void check(Main obj) throws Throwable {
-        if(adminUser.getText().equals(userID) && Arrays.toString(adminPass.getPassword()).equals(password)){
+        if(adminUser.getText().equals(userID) || Arrays.toString(adminPass.getPassword()).equals(password)){
             dispose();
             new DocAdd(obj);
         } else throw (Throwable) Exception;
